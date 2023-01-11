@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textUtilsByZaid/static/css/main.f596a92a.css",
+    "main.js": "/textUtilsByZaid/static/js/main.b9b7f2ab.js",
+    "static/js/787.c1112931.chunk.js": "/textUtilsByZaid/static/js/787.c1112931.chunk.js",
+    "index.html": "/textUtilsByZaid/index.html",
+    "main.f596a92a.css.map": "/textUtilsByZaid/static/css/main.f596a92a.css.map",
+    "main.b9b7f2ab.js.map": "/textUtilsByZaid/static/js/main.b9b7f2ab.js.map",
+    "787.c1112931.chunk.js.map": "/textUtilsByZaid/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f596a92a.css",
+    "static/js/main.b9b7f2ab.js"
+  ]
+}
